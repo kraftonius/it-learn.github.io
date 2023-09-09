@@ -1,0 +1,27 @@
+
+# Legend
+- Loc1: Княжество Вайти-Вайти
+  -  Жизнь программиста https://ru.hexlet.io/courses/prog-life
+  -  ОС https://ru.hexlet.io/courses/operating_systems
+  -  Bash https://ru.hexlet.io/courses/cli-basics
+  -  Git https://ru.hexlet.io/courses/intro_to_git
+  -  Верстка https://ru.hexlet.io/courses/layout-designer-basics
+  -  ДжаваСкрипт https://ru.hexlet.io/courses/js-basics
+- Loc2
+  - ыть
+- Loc3
+  - ыть
+- Loc4
+  - ыть
+- Loc5
+  - ыть
+- Loc6
+  - ыть
+- Loc7
+  - ыть
+- Loc8
+  - ыть
+- Loc9
+  - ыть
+- Loc9
+  - ыть
